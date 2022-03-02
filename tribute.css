@@ -1,0 +1,17 @@
+.body {
+  margin-top: 60px;
+}
+
+.text{
+    text-align: center;
+}
+
+.container{
+    align-content: center;
+}
+
+.img img{
+
+    vertical-align: middle;
+   
+}
